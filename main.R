@@ -3,6 +3,7 @@
 
 source('R/CheckLeapyear.R')
 
+
 #Test if function is working
 CheckLeapYear(1996)
 CheckLeapYear("John")
