@@ -3,14 +3,7 @@
 
 source('R/CheckLeapyear.R')
 
-
-
-
-
-
-
-
-
-checkLeapYear(1996)
-checkLeapYear("John")
-checkLeapYear(1500)
+#Test if function is working
+CheckLeapYear(1996)
+CheckLeapYear("John")
+CheckLeapYear(1500)
