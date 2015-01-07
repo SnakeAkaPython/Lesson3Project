@@ -1,7 +1,7 @@
 #SnakeAkaPython
 # 7 January 2015
 
-checkLeapYear <- function (x) {
+CheckLeapYear <- function (x) {
   # Function to check if a year is a leap year
   # x (numeric) is the year to check if a leap year
     if (!is.numeric(x)) {

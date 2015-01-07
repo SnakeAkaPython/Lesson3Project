@@ -1,7 +1,7 @@
 #SnakeAkaPython: Ngwenyama Bongani, Gyrichidis Andronikos
 #January 7 2015
 
-source('R/CheckLeapyear.R')
+source('R/CheckLeapYear.R')
 
 
 #Test if function is working
