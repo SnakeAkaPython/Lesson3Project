@@ -1,4 +1,4 @@
-# Bongani ngwenyama
+#SnakeAkaPython
 # 7 January 2015
 
 checkLeapYear <- function (x) {
